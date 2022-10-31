@@ -1,4 +1,4 @@
-"# Fantera Tokens & NFT-" 
+"# Fantera Tokens & NFT" 
 
 This project is deployed in Goerli testnet, Netlify and IPFS.
 
